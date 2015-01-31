@@ -1,3 +1,6 @@
 [submodule "hue-bulb-scenes"]
 	path = hue-bulb-scenes
 	url = ../Hue-Bulb-Scenes.git
+[submodule "ActiON"]
+	path = ActiON
+	url = ../ActiON.git

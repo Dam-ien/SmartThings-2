@@ -1,0 +1,3 @@
+[submodule "hue-bulb-scenes"]
+	path = hue-bulb-scenes
+	url = ../Hue-Bulb-Scenes.git

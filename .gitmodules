@@ -4,3 +4,6 @@
 [submodule "ActiON"]
 	path = ActiON
 	url = ../ActiON.git
+[submodule "moody-hue"]
+	path = moody-hue
+	url = ../moody-hue.git

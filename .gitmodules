@@ -7,3 +7,6 @@
 [submodule "moody-hue"]
 	path = moody-hue
 	url = ../moody-hue.git
+[submodule "Smart-Lights"]
+	path = Smart-Lights
+	url = ../Smart-Lights.git

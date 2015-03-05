@@ -10,3 +10,12 @@
 [submodule "Smart-Lights"]
 	path = Smart-Lights
 	url = ../Smart-Lights.git
+[submodule "Smart-Switch"]
+	path = Smart-Switch
+	url = ../Smart-Switch.git
+[submodule "android-ip-camera.device"]
+	path = android-ip-camera.device
+	url = ../android-ip-camera.device.git
+[submodule "camera-record.app"]
+	path = camera-record.app
+	url = ../camera-record.app.git

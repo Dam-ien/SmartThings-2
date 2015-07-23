@@ -19,3 +19,6 @@
 [submodule "camera-record.app"]
 	path = camera-record.app
 	url = ../camera-record.app.git
+[submodule "camera-reboot.app"]
+	path = camera-reboot.app
+	url = ../camera-reboot.app.git
